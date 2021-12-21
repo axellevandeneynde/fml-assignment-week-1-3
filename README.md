@@ -1,1 +1,4 @@
-# Fundametals of machine learning - assignment week 1 to 3
+# Assignment week 1 to 3
+## Fundametals of machine learning 
+
+
